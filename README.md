@@ -3,7 +3,7 @@ I’m passionate about building practical solutions with modern web technologies
 
 What I work on:
 
-Full-stack development (JavaScript/TypeScript, React, Next.js)
+Full-stack development (JavaScript, React)
 
 Backend & APIs (Node.js, Python, Supabase, PostgreSQL)
 
